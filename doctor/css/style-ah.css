@@ -1,0 +1,105 @@
+.all{
+    margin-top: 150px;
+    width: 750px;
+    height: 800px;
+}
+.sec1-t1{
+    font: 20px bold 'JannaLT-Regular';
+    color: #00318B;
+    padding-top: 20px;
+}
+.sec1-row1{
+    right: 70px;
+    height: 300px;
+    width: 200px;
+}
+.sec1-img1{
+    width: 85px;
+    height: 85px;
+    position: absolute;
+    right: 30px;
+    top: 45px;
+}
+.sec1-t8{
+    position: absolute;
+    font-size: 20px;
+    font-weight: bold;
+    color: #00318B;
+    top: auto;
+    bottom: auto;
+    right: auto;
+    left: auto;
+    text-align: right;
+}
+.sec1-t2{
+    top: 140px;
+    right: 150px;
+}
+.sec1-t3{
+    top: 64px;
+    right: 150px;
+}
+.sec1-t4{
+    top: 150px;
+    right: 85px;
+}
+.sec1-t9{
+    font-size: 18px;
+    font-weight: bold;
+    color: black;
+    position: absolute;
+    top: auto;
+    bottom: auto;
+    right: auto;
+    left: auto;
+    text-align: right;
+}
+.sec1-t5{
+    top: 150px;
+    right: 230px;
+}
+.sec1-t6{
+    top: 84px;
+    right:230px;
+}
+.sec1-t7{
+    top: 185px;
+    right: 270px;
+}
+.sec1-btn1{
+    background-color: white;
+    color: #26A9D9;
+    font-size: 17px;
+    font-weight: normal;
+    padding-bottom: 15px;
+    position: static; 
+    margin-right: 20px;
+}
+.sec1-btn1:hover{
+    background-color: white;
+    color: #26A9D9;
+    font-size: 17px;
+    font-weight: normal;
+    position: static;
+    margin-right: 20px;
+}
+.sec1-btn2{
+    background-color: #26A9D9;
+    color: white;
+    font-size: 17px;
+    font-weight: normal;
+    padding-bottom: 15px;
+    position: static;
+}
+.sec1-btn2:hover{
+    background-color: #26A9D9;
+    color: white;
+    font-size: 17px;
+    font-weight: normal;
+    position: static;
+}
+.sec1-btns{
+    position: absolute;
+    bottom: 50px;
+    right: 180px;
+}

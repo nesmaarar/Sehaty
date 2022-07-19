@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="216" height="71" viewBox="0 0 216 71">
+  <g id="Group_91" data-name="Group 91" transform="translate(-21 -643)">
+    <g id="Rectangle_220" data-name="Rectangle 220" transform="translate(74 660)" fill="#fff" stroke="#d1d1d1" stroke-width="1">
+      <rect width="32" height="45" rx="8" stroke="none"/>
+      <rect x="0.5" y="0.5" width="31" height="44" rx="7.5" fill="none"/>
+    </g>
+    <g id="Rectangle_221" data-name="Rectangle 221" transform="translate(167 660)" fill="#fff" stroke="#d1d1d1" stroke-width="1">
+      <rect width="32" height="45" rx="8" stroke="none"/>
+      <rect x="0.5" y="0.5" width="31" height="44" rx="7.5" fill="none"/>
+    </g>
+    <g id="Rectangle_222" data-name="Rectangle 222" transform="translate(206 660)" fill="#fff" stroke="#d1d1d1" stroke-width="1">
+      <rect width="31" height="45" rx="8" stroke="none"/>
+      <rect x="0.5" y="0.5" width="30" height="44" rx="7.5" fill="none"/>
+    </g>
+    <g id="Rectangle_223" data-name="Rectangle 223" transform="translate(113 660)" fill="#fff" stroke="#d1d1d1" stroke-width="1">
+      <rect width="31" height="45" rx="8" stroke="none"/>
+      <rect x="0.5" y="0.5" width="30" height="44" rx="7.5" fill="none"/>
+    </g>
+    <text id=":" transform="translate(151 692)" fill="#2b3234" font-size="38" font-family="JannaLT-Bold, Janna LT" font-weight="700"><tspan x="0" y="0">:</tspan></text>
+  </g>
+  <text id="صباحاً" transform="translate(38 42)" fill="#2b3234" font-size="17" font-family="JannaLT-Regular, Janna LT"><tspan x="-35.343" y="0">صباحاً</tspan></text>
+</svg>

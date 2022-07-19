@@ -1,0 +1,334 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.all{
+    width: 1119px;
+    height: 1050px;
+    margin-left: 240px;
+    position: relative;
+}
+.left{
+    width: 705px;
+    height: 1050px;
+    position: relative;
+}
+.sec1-t3{
+    position: static;
+    font-size: 17px;
+    color: black;
+    border: none;
+    text-align: right;
+    position: absolute;
+    right: 20px;
+    top: 10px;
+}
+.all .sec1-row1{
+    position: absolute;
+    width: 343px;
+    height: 73px;
+    border: 1px solid #005AFF;
+    right: -10px;
+    top: 65px;
+    cursor: pointer;
+}
+.sec1-img1{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    right: 10px;
+    left: auto;
+    top: 10px;
+    object-fit: cover;
+}
+.dotg{
+    background-color: #03FF03;
+    width: 15px;
+    height: 15px;
+    position: absolute;
+    top: 45px;
+    right: 43px;
+}
+.sec1-t4{
+    position: absolute;
+    font-size: 13px;
+    font-weight: bold;
+    color: #26A9D9;
+    right: 70px;
+    top: 7px;
+    margin: 0;
+}
+.sec1-t5{
+    position: absolute;
+    font-size: 13px;
+    font-weight: normal;
+    color: black;
+    right: 70px;
+    top: 35px;
+    margin: 0;
+}
+.sec1-num1{
+    margin: 0;
+    font-size: 13px;
+    font-weight: bold;
+    color: white;
+    border: #26A9D9 1px solid;
+    background-color: #26A9D9;
+    position: absolute;
+    left: 15px;
+    top: 25px;
+    width: 24px;
+    height: 24px;
+    padding-left: 7px;
+    padding-top: 2px;
+}
+.all .sec1-row2{
+    position: absolute;
+    width: 343px;
+    height: 73px;
+    border: none;
+    right: 20px;
+    top: 155px;
+    cursor: pointer;
+}
+.all .sec1-row3{
+    position: absolute;
+    width: 343px;
+    height: 73px;
+    border: none;
+    right: 20px;
+    top: 245px;
+    cursor: pointer;
+}
+.sec1-img1-1{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    right: 160px;
+    left: auto;
+    top: 40px;
+    object-fit: cover;
+}
+.dotg1{
+    background-color: #03FF03;
+    width: 15px;
+    height: 15px;
+    position: absolute;
+    top: 75px;
+    right: 193px;
+}
+.sec1-t4-1{
+    position: absolute;
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    right: 230px;
+    top: 50px;
+    margin: 0;
+}
+.sec1-line1{
+    background-color: #D4D4D4;
+    width: 555px;
+    position: absolute;
+    left: 75px;
+    right: 65px;
+    top: 110px;
+    height: 1px;
+}
+.sec1-per1{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    left: 100px;
+    top: 130px;
+}
+.sec1-per1-t{
+    position: absolute;
+    left: 160px;
+    top: 135px;
+    color: black;
+    background-color: #F3F3F3;
+    width: 209px;
+    height: 83px;
+    padding-left: 18px;
+    padding-bottom: 8px;
+    padding-right: 11px;
+    padding-top: 10px;
+    border-bottom-left-radius: .6rem;
+    border-bottom-right-radius:.6rem;
+    border-top-left-radius: .6rem;
+    border-top-right-radius: 0;
+    text-align: right;
+}
+.sec1-per3-t{
+    position: absolute;
+    left: 160px;
+    top: 580px;
+    color: black;
+    background-color: #F3F3F3;
+    width: 209px;
+    height: 83px;
+    padding-left: 18px;
+    padding-bottom: 8px;
+    padding-right: 11px;
+    padding-top: 10px;
+    border-bottom-left-radius: .6rem;
+    border-bottom-right-radius:.6rem;
+    border-top-left-radius: .6rem;
+    border-top-right-radius: 0;
+    text-align: right;
+}
+.sec1-per2{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    left: 100px;
+    top: 250px;
+}
+.sec1-img2{
+    position: absolute;
+    object-fit: cover;
+    left: 160px;
+    top: 250px;
+    
+}
+.sec1-per3{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    left: 100px;
+    top: 580px;
+}
+.sec1-per1-2{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    right: 100px;
+    top: 680px;
+}
+.sec1-per1-t-2{
+    position: absolute;
+    color: black;
+    background-color: #BAE5F5 !important;
+    width: 249px;
+    height: 83px;
+    right: 160px;
+    top: 680px;
+    padding-left: 18px;
+    padding-bottom: 8px;
+    padding-right: 11px;
+    padding-top: 10px;
+    border-bottom-left-radius: .6rem;
+    border-bottom-right-radius:.6rem;
+    border-top-left-radius: .6rem;
+    border-top-right-radius: 0;
+    text-align: right;
+}
+.sec1-per3-t-2{
+    position: absolute;
+    right: 160px;
+    top: 780px;
+    color: black;
+    background-color: #BAE5F5 !important;
+    width: 209px;
+    height: 83px;
+    padding-left: 18px;
+    padding-bottom: 8px;
+    padding-right: 11px;
+    padding-top: 10px;
+    border-bottom-left-radius: .6rem;
+    border-bottom-right-radius:.6rem;
+    border-top-left-radius: .6rem;
+    border-top-right-radius: 0;
+    text-align: right;
+}
+.sec1-per2-2{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    right: 100px;
+    top: 475px;
+}
+.sec1-img2-2{
+    position: absolute;
+    object-fit: cover;
+    right: 160px;
+    top: 475px;
+}
+.sec1-per3-2{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    right: 100px;
+    top: 780px;
+}
+
+.sec1-input{
+    width: 432px;
+    height: 60px;
+    position: absolute;
+    right: 100px;
+    bottom: 70px;
+    text-align: right;
+}
+.sec1-input1{
+    width: 70px;
+    height: 60px;
+    position: absolute;
+    left: 100px;
+    bottom: 70px;
+    text-align: right;
+    background-color: #26A9D9;
+    border: none;
+}
+.send{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    left: 120px;
+    bottom: 85px;
+    text-align: right;
+    background-color: #26A9D9;
+    border: none;
+    cursor: pointer;
+}
+.mic{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    left: 240px;
+    bottom: 85px;
+    text-align: right;
+    border: none;
+    cursor: pointer;
+}
+.pen{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    left: 190px;
+    bottom: 85px;
+    text-align: right;
+    border: none;
+    cursor: pointer;
+}
+.sec1-ul3{
+    font-size: 14px;
+    font-weight: normal;
+    background-color: #26A9D9;
+    color: white;
+    width: 20px;
+    height: 20px;
+    padding-left: 6px;
+    position: absolute;
+    top: 43px;    
+}
+.sec1-ul1{
+    margin-left: -105px;
+}

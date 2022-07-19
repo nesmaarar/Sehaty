@@ -1,0 +1,395 @@
+@import url(//db.onlinewebfonts.com/c/dee436f274c410c23fc3de43367ef1ae?family=JannaLT-Regular);
+.navbar{
+    background-color: transparent;
+    color: #00318B;
+    padding-top: 50px;
+}
+.sec1{
+    background-image: url(../IMG/backg1.png), url(../IMG/backg2.png);
+  background-position: left bottom, right top;
+  background-repeat: no-repeat, no-repeat;
+    height: 1010px;
+    width: 100%;
+    background-size: 600px, 400px;
+}
+
+.sec1-ul1{
+    width: 60px;
+    margin-left: 8px;
+    height: 3px;
+    background-color: #0089D9;
+}
+.search{
+    border: none;
+    text-align: right;
+    position: absolute;
+    left: 250px;
+    top: 60px;
+}
+.sec1-ul2{
+    width: 200px;
+    position: absolute;
+    left: 230px;
+    top: 90px;
+    height: 2px;
+    background-color: #CAE5F0;
+}
+.search:hover{
+    border: none;
+}
+.sec1-ic1{
+    color: #00318B;
+    position: absolute;
+    left: 430px;
+    top: 65px;
+    cursor: pointer;
+}
+.sec1-t1{
+    text-align: right;
+    color: #00318B;
+    font-family: 'JannaLT-Regular';
+    font-weight: bold;
+    font-size: 63px;
+    position: absolute;
+    right: 238px;
+    top: 252px;
+}
+.sec1-t2{
+    text-align: right;
+    color: #00318B;
+    font-family: 'JannaLT-Regular';
+    font-size: 23px;
+    position: absolute;
+    right: 238px;
+    top: 362px;
+}
+.sec1-t3{
+    text-align: right;
+    color: #424242;
+    font-family: 'JannaLT-Regular';
+    font-size: 19px;
+    position: absolute;
+    right: 238px;
+    top: 462px;
+}
+.sec1-t4{
+    text-align: right;
+    color: #00318B;
+    font-family: 'JannaLT-Regular';
+    font-size: 23px;
+    position: absolute;
+    right: 371px;
+    top: 552px;
+}
+.sec1-btn1{
+    text-align: right;
+    color: #00318B;
+    font-family: 'JannaLT-Regular';
+    font-size: 18px;
+    position: absolute;
+    right: 238px;
+    top: 632px;
+    width: 201px;
+    height: 59px;
+    border-radius: 40%;
+    color: white;
+    background-color: #00318B;
+    text-align: center;
+    border: none;
+    text-decoration: none;
+    padding-top: 18px;
+}
+.sec1-btn2{
+    text-align: right;
+    color: #00318B;
+    font-family: 'JannaLT-Regular';
+    font-size: 18px;
+    position: absolute;
+    right: 468px;
+    top: 632px;
+    width: 201px;
+    height: 59px;
+    border-radius: 40%;
+    color: #00318B;
+    background-color: #DCF0F8;
+    text-align: center;
+    border: none;
+    text-decoration: none;
+    padding-top: 18px;
+}
+
+.sec2-t1{
+    text-align: right;
+    color: #00318B;
+    font-family: 'JannaLT-Regular';
+    font-size: 35px;
+    font-weight: bold;
+    position: absolute;
+    right: 650px;
+    top: 780px;
+}
+.sec2{
+    height: 700px;
+}
+.sec2-img1{
+    position: absolute;
+    left: 170px;
+}
+.sec2-t2{
+    position: absolute;
+    right: 340px;
+    top: 1050px;
+    font-size: 35px;
+    font-weight: bold;
+    font-family: 'JannaLT-Regular';
+    color: #0089D9;
+}
+.sec2-t3{
+    text-align: center;
+    position: absolute;
+    right: 240px;
+    top: 1150px;
+    font-size: 22px;
+    font-weight: bold;
+    font-family: 'JannaLT-Regular';
+    color: #424242;
+}
+.sec3{
+    height: 700px;
+    position: relative;
+}
+.sec3-t1{
+    position: absolute;
+    left: 440px;
+    top: 150px;
+    font-size: 35px;
+    font-weight: bold;
+    font-family: 'JannaLT-Regular';
+    color: #0089D9;
+}
+.sec3-t2{
+    text-align: center;
+    position: absolute;
+    left: 300px;
+    top: 250px;
+    font-size: 22px;
+    font-weight: bold;
+    font-family: 'JannaLT-Regular';
+    color: #424242;
+}
+.sec3-img1{
+    width: 500px;
+}
+.sec4{
+    height: 700px;
+    position: relative;
+}
+.sec4-t1{
+    position: absolute;
+    right: 400px;
+    top: 104px;
+    font-size: 35px;
+    font-weight: bold;
+    font-family: 'JannaLT-Regular';
+    color: #0089D9;
+}
+.sec4-t2{
+    text-align: center;
+    position: absolute;
+    right: 300px;
+    top: 200px;
+    font-size: 22px;
+    font-weight: bold;
+    font-family: 'JannaLT-Regular';
+    color: #424242;
+}
+.sec4-img1{
+    width: 500px;
+    position: absolute;
+    left: 170px;
+}
+.sec5{
+    height: 1100px;
+    position: relative;
+}
+.sec5-div1{
+    background-color: #F7FCFE;
+    width: 80%;
+    height: 1000px;
+    margin-left: 10%;
+    position: relative;
+}
+.sec5-t1{
+    text-align: center;
+    color: #0089D9;
+    font-family: 'JannaLT-Regular';
+    font-size: 35px;
+    font-weight: bold;
+    position: absolute;
+    top: 50px;
+    left: 45%;
+}
+.sec5-div{
+    position: absolute;
+    width: 1094px;
+    height: 231px;
+    background-color: white;
+}
+.sec5-div2{
+    left: 8%;
+    top: 150px;
+}
+.sec5-div3{
+    left: 8%;
+    top: 410px;
+}
+.sec5-div4{
+    left: 8%;
+    top: 670px;
+}
+.sec5-img{
+    position: absolute;
+    width: 334px;
+    height: 208px;
+    object-fit: cover;
+    right: 0;
+    top: 10px;
+    right: 10px;
+    cursor: pointer;
+}
+.sec5-t2{
+    font-family: 'JannaLT-Regular';
+    font-size: 25px;
+    color: #00318B;
+    position: absolute;
+    right: 360px;
+    top: 10px;
+    cursor: pointer;
+    transition: all ease-in-out .5s;
+}
+.sec5-t2:hover{
+    text-decoration: underline;
+}
+.sec5-t6{
+    font-family: 'JannaLT-Regular';
+    font-size: 20px;
+    position: absolute;
+    right: 360px;
+    top: 70px;
+    text-align: right;
+}
+footer{
+    background-color: #DCF0F8;
+    height: 450px;
+    position: relative;
+}
+.logo{
+    position: absolute;
+    right: 0;
+    top: 20px;
+}
+.fo-t1{
+    font-size: 25px;
+    font-weight: bold;
+    color: #00318B;
+    position: absolute;
+    right: 424px;
+    top: 50px;
+    cursor: pointer;
+    transition: all ease-in-out .5s;
+}
+.fo-t2{
+    font-size: 25px;
+    font-weight: bold;
+    color: #00318B;
+    position: absolute;
+    right: 424px;
+    top: 130px;
+    cursor: pointer;
+    transition: all ease-in-out .5s;
+}
+.fo-t3{
+    font-size: 25px;
+    font-weight: bold;
+    color: #00318B;
+    position: absolute;
+    right: 424px;
+    top: 210px;
+    cursor: pointer;
+    transition: all ease-in-out .5s;
+}
+.fo-t4{
+    font-size: 25px;
+    font-weight: bold;
+    color: #00318B;
+    position: absolute;
+    cursor: pointer;
+    bottom: 20px;
+    right: 20px;
+}
+.fo-t1:hover{
+    text-decoration: underline;
+}
+.fo-t2:hover{
+    text-decoration: underline;
+}
+.fo-t3:hover{
+    text-decoration: underline;
+    
+}
+
+/* Mobile */
+
+@media (max-width: 767px) {
+
+}
+
+/* Small Screens */
+
+@media (min-width: 768px) and (max-width: 991px) {
+
+}
+
+/* Medium Screens */
+
+@media (min-width: 992px) {
+
+}
+
+/* Large Screens */
+
+@media (min-width: 1200px) {
+
+}
+
+
+/* @media (max-width:1400px) and (min-width:1200px){
+    .search{
+        border: none;
+        text-align: right;
+        position: absolute;
+        left: 190px;
+        top: 60px;
+    }
+    .sec1-ul2{
+        width: 200px;
+        position: absolute;
+        left: 170px;
+        top: 90px;
+        height: 2px;
+        background-color: #CAE5F0;
+    }
+    .search:hover{
+        border: none;
+    }
+    .sec1-ic1{
+        color: #00318B;
+        position: absolute;
+        left: 370px;
+        top: 65px;
+        cursor: pointer;
+    }
+    .nav1{
+        color: #00318B; margin-right: 38px;margin-left: 210px; font-family: 'JannaLT-Regular';font-size: 18px;
+    }
+} */
